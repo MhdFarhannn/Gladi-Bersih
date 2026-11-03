@@ -1,0 +1,6 @@
+@Gladi_Bersih_HostAddress = http://localhost:5257
+
+GET {{Gladi_Bersih_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -55,3 +55,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Uploaded files
+wwwroot/uploads/*
+!wwwroot/uploads/alat/
+wwwroot/uploads/alat/*
+!wwwroot/uploads/alat/.gitkeep
